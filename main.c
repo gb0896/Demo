@@ -8,9 +8,9 @@
 int main(){
         int a,b;
         scanf("%d%d",&a,&b);
-        printf("Addition = %d",addition(a,b));
-        printf("Substraction = %d",sub(a,b));
-        printf("Multiplication = %d",mul(a,b));
-        printf("Exponent = %d",power(a,b));
-        printf("Factorial = %d",fact(a));
+        printf("\nAddition = %d",addition(a,b));
+        printf("\nSubstraction = %d",sub(a,b));
+        printf("\nMultiplication = %d",mul(a,b));
+        printf("\nExponent = %d",power(a,b));
+        printf("\nFactorial = %d",fact(a));
 }
