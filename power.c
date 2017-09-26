@@ -5,5 +5,5 @@ int i,ans =1;
 
 for(i=0;i<b;i++)
 	ans *=a;
-
+return ans;
 }
